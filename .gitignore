@@ -1,0 +1,20 @@
+# data (too large for git - download from the links in README)
+data/*
+!data/.gitkeep
+!data/README.md
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# model files: the small ones are committed on purpose; uncomment if any file exceeds ~100 MB
+# models/*.keras

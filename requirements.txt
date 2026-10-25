@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+pillow
+
+# Deep learning (TensorFlow / Keras used for the whole project)
+tensorflow>=2.16
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+
+# App
+streamlit
+
+# Notebooks
+jupyter
+ipykernel
