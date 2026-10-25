@@ -1,0 +1,7 @@
+,MAE,MSE,RMSE,R2
+ANN  (all test cycles),42.3133,3565.9277,59.7154,0.5801
+ANN  (window final step),38.2724,2839.0063,53.2823,0.6143
+RNN  (all time steps),42.3056,3465.7097,58.8703,0.5338
+RNN  (window final step),38.7365,2983.1958,54.6186,0.5947
+LSTM (all time steps),69.8233,7518.022,86.7065,-0.0112
+LSTM (window final step),71.434,7478.3013,86.4772,-0.0161
