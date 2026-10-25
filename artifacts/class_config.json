@@ -1,0 +1,16 @@
+{
+  "class_names": [
+    "normal",
+    "defective"
+  ],
+  "positive_class": "defective",
+  "threshold": 0.5,
+  "best_model": "vgg16.keras",
+  "best_model_input_size": 224,
+  "input_sizes": {
+    "custom_cnn.keras": 128,
+    "vgg16.keras": 224,
+    "mobilenetv2.keras": 224
+  },
+  "note": "Feed raw RGB pixels in [0, 255]; rescaling/preprocessing is inside the model."
+}

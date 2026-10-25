@@ -1,0 +1,4 @@
+,Accuracy,Precision (weighted),Recall (weighted),F1 (weighted),Precision (defective),Recall (defective),F1 (defective),ROC-AUC
+Custom CNN,0.9734,0.9736,0.9734,0.9733,0.9697,0.989,0.9792,0.9975
+VGG16,0.9958,0.9958,0.9958,0.9958,0.9978,0.9956,0.9967,0.9997
+MobileNetV2,0.9944,0.9944,0.9944,0.9944,0.9956,0.9956,0.9956,0.9994
